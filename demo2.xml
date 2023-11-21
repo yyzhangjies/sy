@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<ufinterface account="develop" billtype="6113" filename="q6113002" groupcode="" isexchange="Y" replace="Y" roottag="" sender="001">
+    <bill id="qi111111112">
+        <billhead>
+			<pk_billtype>6113</pk_billtype>
+            <approve_state>-1</approve_state>
+            <pk_psndoc>A00000009</pk_psndoc>
+            <stapply_mode>2</stapply_mode>
+            <pk_trnstype>0303</pk_trnstype>
+            <sreason>0102</sreason>
+            <memo>aw</memo>
+			<billmaker>ZJ</billmaker>
+            <apply_date>2021-04-12</apply_date>
+            <effectdate>2021-04-21</effectdate>
+            <pk_group>1</pk_group>
+            <pk_org>0101</pk_org>
+			<pk_hi_org>010101</pk_hi_org>
+			<pk_hrcm_org>010101</pk_hrcm_org>
+            <newpk_org>010101</newpk_org>
+            <newpk_dept>0802</newpk_dept>
+            <newpk_post>B97</newpk_post>
+            <newpk_psncl>0101</newpk_psncl>
+            <trial_flag>N</trial_flag>
+            <newpoststat>N</newpoststat>
+            <ifendpart>N</ifendpart>
+            <ifsynwork>Y</ifsynwork>
+            <ifaddblack>N</ifaddblack>
+            <addreason></addreason>
+            <ifaddpsnchg>N</ifaddpsnchg>
+            <isneedfile>N</isneedfile>
+            <isdisablepsn>Y</isdisablepsn>
+            <isrelease>N</isrelease>
+            <isend>N</isend>
+        </billhead>
+    </bill>
+</ufinterface>
